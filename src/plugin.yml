@@ -1,0 +1,12 @@
+name: stats
+description: 1.0
+version: 1.0
+main: me.helix.AtlasStats.Main
+author: HELIX
+api-version: 1.13
+
+commands:
+  stats:
+    description: This is nothing :P.
+  serverstats:
+    description: This is nothing :P.
